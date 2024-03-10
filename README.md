@@ -8,3 +8,6 @@ Practice project => Figma project to practice web design
 
   * HTML, CSS
 
+  ![Template Figma](https://github.com/Romina-Doval/Waggy-PetShop/blob/main/Assets/Waggy-PetShop.jpg)
+
+
